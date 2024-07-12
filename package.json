@@ -1,0 +1,34 @@
+{
+  "name": "claude-chat-app",
+  "displayName": "F# VSCode Extension",
+  "description": "Minimal VSCode Extension written in F#",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "claude-chat-app.helloWorld",
+        "title": "Hello World"
+      },
+      {
+        "command": "claude-chat-app.showWebview",
+        "title": "Show F# WebView"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "dotnet fable ./ && npx vite build"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "@types/vscode": "^1.90.0",
+    "vite": "^5.3.3"
+  }
+}

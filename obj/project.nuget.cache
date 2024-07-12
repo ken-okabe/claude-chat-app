@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MBCgbi5DgnI=",
+  "success": true,
+  "projectFilePath": "/home/ken/Documents/p/claude-chat-app/claude-chat-app.fsproj",
+  "expectedPackageFiles": [
+    "/home/ken/.nuget/packages/fable.core/4.3.0/fable.core.4.3.0.nupkg.sha512",
+    "/home/ken/.nuget/packages/fsharp.core/8.0.300/fsharp.core.8.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

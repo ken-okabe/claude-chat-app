@@ -1,0 +1,4 @@
+/home/ken/Documents/p/claude-chat-app/bin/Release/net8.0/claude-chat-app.fable-temp.deps.json
+/home/ken/Documents/p/claude-chat-app/obj/Release/net8.0/claude-chat-app.fable-temp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ken/Documents/p/claude-chat-app/obj/Release/net8.0/claude-chat-app.fable-temp.AssemblyInfoInputs.cache
+/home/ken/Documents/p/claude-chat-app/obj/Release/net8.0/claude-chat-app.fable-temp.AssemblyInfo.cs
